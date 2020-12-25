@@ -20,7 +20,7 @@ key 是 jenkins服务器 ssh-keygen 生成的私钥
 .ssh]# cat id_rsa01 >> authorized_keys
 ```
 
-![](001.jpg)
+![](/images/001.jpg)
 
 ##### 3:创建任务
 

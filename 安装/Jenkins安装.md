@@ -3,7 +3,10 @@
 前置环境
 
 ```
-安装java jdk 环境
+安装以下环境
+java jdk
+git
+
 下载jenkins rpm安装包
 下载地址:http://mirrors.jenkins-ci.org/redhat/
 wget http://mirrors.jenkins-ci.org/redhat/jenkins-2.269-1.1.noarch.rpm

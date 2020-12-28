@@ -24,12 +24,12 @@ key 是 jenkins服务器 ssh-keygen 生成的私钥
 
 ##### 3:创建任务
 
-![](.\images\002.jpg)
+![](./images/002.jpg)
 
 ##### 4:配置
 
-![](.\images\003.jpg)
+![](./images/003.jpg)
 
-![](.\images\004.jpg)
+![](./images/004.jpg)
 
-![](.\images\005.jpg)
+![](./images/005.jpg)
